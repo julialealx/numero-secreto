@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este é um jogo secreto desenvolvido o curso da Alura.
+Este é o jogo do número secreto desenvolvido com o curso da Alura.
 
 ## Tecnologias Utilizadas
 
